@@ -62,7 +62,7 @@ namespace DataAccess.Concrete.InMemory
 
         public int CarId { get; private set; }
 
-        public void Add(Car Car)
+        public void Add(Car car)
         {
             _cars.Add(car);
         }
