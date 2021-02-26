@@ -18,7 +18,7 @@ namespace DataAccess.Concrete.InMemory
             { 
                 new Car 
                 { CarId=1, 
-                    ColorID=1,
+                    ColorId=1,
                     BrandId=1,
                     ModelYear="2000", 
                     DailyPrice = 100, 
@@ -26,7 +26,7 @@ namespace DataAccess.Concrete.InMemory
                 },
                 new Car
                 { CarId=2,
-                    ColorID=2,
+                    ColorId=2,
                     BrandId=2,
                     ModelYear="2002",
                     DailyPrice = 200,
@@ -34,7 +34,7 @@ namespace DataAccess.Concrete.InMemory
                 },
                 new Car
                 { CarId=3,
-                    ColorID=3,
+                    ColorId=3,
                     BrandId=3,
                     ModelYear="2003",
                     DailyPrice = 300,
@@ -42,7 +42,7 @@ namespace DataAccess.Concrete.InMemory
                 },
                 new Car
                 { CarId=4,
-                    ColorID=4,
+                    ColorId=4,
                     BrandId=4,
                     ModelYear="2004",
                     DailyPrice = 400,
@@ -50,12 +50,12 @@ namespace DataAccess.Concrete.InMemory
                 },
                 new Car
                 { CarId=5,
-                    ColorID=5,
+                    ColorId=5,
                     BrandId=5,
                     ModelYear="2005",
                     DailyPrice = 500,
                     Description="ooo"
-                },
+                }
 
             };
         }
